@@ -3,8 +3,8 @@ export const profile = {
   role: "Full Stack Developer",
   tagline: "I build useful software, reliable APIs, and AI-powered experiences.",
   location: "India · Open to remote opportunities",
-  email: "your.email@example.com",
-  github: "https://github.com/your-github-username",
+  email: "tpiyush038@gmailcom",
+  github: "https://github.com/PiyushTiwari01",
   linkedin: "https://www.linkedin.com/in/piyushtiwari01",
 };
 export const projects = [
